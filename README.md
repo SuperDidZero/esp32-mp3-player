@@ -36,7 +36,7 @@ flowchart LR
 
 Most "I built a thing with an ESP32" write-ups skip the part where it almost didn't work. This one keeps that part in: a charger board with its polarity labels silkscreened backwards (confirmed across an entire batch, not a one-off), a board that looked bricked but was actually one wrong setting in the IDE, a battery and USB fighting each other and corrupting the flash. If you're sourcing the same cheap modules, the [lessons-learned](docs/lessons-learned.md) page alone could save you a very confusing evening.
 
-Related: [command-console](https://github.com/superdidotwitch-jpg/command-console) and [homelab-v2](https://github.com/superdidotwitch-jpg/homelab-v2), separate projects, same author.
+Related: [command-console](https://github.com/SuperDidZero/command-console) and [homelab-v2](https://github.com/SuperDidZero/homelab-v2), separate projects, same author.
 
 ## License
 
